@@ -1,4 +1,4 @@
-module github.com/aayushrangwala/watermark-service
+module github.com/pradeepchakry/watermark-service
 
 go 1.12
 
