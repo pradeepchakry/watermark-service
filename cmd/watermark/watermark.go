@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	pb "github.com/aayushrangwala/watermark-service/api/v1/pb/watermark"
-	"github.com/aayushrangwala/watermark-service/pkg/watermark"
-	"github.com/aayushrangwala/watermark-service/pkg/watermark/endpoints"
-	"github.com/aayushrangwala/watermark-service/pkg/watermark/transport"
+	pb "github.com/pradeepchakry/watermark-service/api/v1/pb/watermark"
+	"github.com/pradeepchakry/watermark-service/pkg/watermark"
+	"github.com/pradeepchakry/watermark-service/pkg/watermark/endpoints"
+	"github.com/pradeepchakry/watermark-service/pkg/watermark/transport"
 
 	"github.com/go-kit/kit/log"
 	kitgrpc "github.com/go-kit/kit/transport/grpc"

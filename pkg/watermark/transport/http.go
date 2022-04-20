@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/aayushrangwala/watermark-service/internal/util"
-	"github.com/aayushrangwala/watermark-service/pkg/watermark/endpoints"
+	"github.com/pradeepchakry/watermark-service/internal/util"
+	"github.com/pradeepchakry/watermark-service/pkg/watermark/endpoints"
 
 	"github.com/go-kit/kit/log"
 	httptransport "github.com/go-kit/kit/transport/http"
